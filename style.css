@@ -1,0 +1,10 @@
+html{
+    background-color: bisque;
+}
+.portfolio-1 {
+    width: 80px;
+    height: 100px;
+    position: absolute;
+    left: 42%;
+    margin-left: -90px;
+}
